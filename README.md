@@ -9,10 +9,12 @@
 --[5]--临时启动并显示进程信息
 --[6]--退出脚本并清理临时文件
 
---注意--使用前应先修改frpc.ini中对应的配置信息
+--注意--使用前应先修改frps.toml中对应的配置信息
 --注意--临时启动中测试正常后再安装为自启动服务
---注意--如需升级版本仅需要替换frpc\frpc.exe文件
+--注意--如需升级版本仅需要替换frps\frps.exe文件
 ```
+
+frp version `0.61.1`
 
 forked from [dylanbai8/frp_windows_tool](https://github.com/dylanbai8/frp_windows_tool)
 
