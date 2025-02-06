@@ -1,0 +1,8 @@
+<service>
+<id>frps</id>
+<name>frps Service</name>
+<description>frps Service</description>
+<executable>D:\win-frpc\\frps\frps.exe</executable>
+<arguments>-c D:\win-frpc\\frps.toml</arguments>
+<logmode>reset</logmode>
+</service>
