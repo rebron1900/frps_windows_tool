@@ -1,5 +1,5 @@
-# frp_windows_tool
-一个 windows 下的 frpc 便捷启动工具 bat脚本
+# frps_windows_tool
+一个 windows 下的 frps 便捷启动工具 bat脚本
 
 ```
 --[1]--启动并隐藏窗口
@@ -13,6 +13,8 @@
 --注意--临时启动中测试正常后再安装为自启动服务
 --注意--如需升级版本仅需要替换frpc\frpc.exe文件
 ```
+
+forked from [dylanbai8/frp_windows_tool](https://github.com/dylanbai8/frp_windows_tool)
 
 frp官方说明：
 
